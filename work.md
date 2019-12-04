@@ -1,7 +1,8 @@
 # work
 
 ## project 1 
-Illustration
+Illustration 
+[![Sample Image].(/images/pattern blue.jpg)
 
 ### project 2 
 Motion 
